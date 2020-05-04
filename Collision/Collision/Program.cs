@@ -43,6 +43,7 @@ namespace ConsoleApplication1
             }
             void collide()
             {
+                Move();
             }
             //Öffentliche Methoden
             public void Move()
